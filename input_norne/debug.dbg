@@ -1,0 +1,84 @@
+ Debugging file (1/2/3): debug.dbg 1
+Log prepared!
+Pseudo Harddata parameters loaded...
+Blocks parameters loaded...
+ Output file: H:/Norne project/GAN_WD//Out_Norne//dss/ip_real
+ Realizations (#): 1
+ Bias Correction: number of simulations = 10
+ Correction for mean = 1
+ Correction for variance = 1
+ Not simulated nodes: -9999.99
+Miscelaneous parameters loaded...
+ Max. previous simulated nodes: 12
+ (0)two-part search/(1)data nodes flag: 1
+ Number of samples per octant: 0
+ Seed: 6906
+Parameters loaded...
+ XX: nodes, min., spacing: 109 1 1
+ YY: nodes, min., spacing: 1 1 1
+ ZZ: nodes, min., spacing: 75 1 1
+Grid Parameters loaded...
+ Zones file: H:/Norne project/GAN_WD//Out_Norne//dss/Facies_model_G_64.out
+ Using Bihistogram? (0)No /(1)Yes: 0
+Bihistogram Parameters loaded...
+ Nst, C0: 1 0.12
+Loading VARIOGRAMZ1S1
+Variogram model: 1
+Covariance proportion: 1
+Angle one: 0
+Angle two: 0
+Angle three: 0
+Amplitude one: 10
+Amplitude two: 1
+Amplitude three: 9.5
+ Using Bihistogram? (0)No /(1)Yes: 0
+Bihistogram Parameters loaded...
+ Nst, C0: 1 0.12
+Loading VARIOGRAMZ2S1
+Variogram model: 1
+Covariance proportion: 1
+Angle one: 0
+Angle two: 0
+Angle three: 0
+Amplitude one: 10
+Amplitude two: 1
+Amplitude three: 9.5
+ Reading zones datafile 
+zone data loaded
+zone data loaded
+ Kriging type (0)SK (1)OK (2)SK local means (3)KED (4)ColK-Gcc (5)ColK-Lcc (6)LVM-ColK-Gcc (7)LVM-ColK-Lcc: 0
+ BUILDING COVARIANCE TABLE 
+ Covariance Look up table and search for previously
+ simulated grid nodes.  The maximum range in each
+ coordinate direction for covariance look up is:
+     X direction: 54
+     Y direction: 0
+     Z direction: 37
+ Node values are not searched beyond this distance! 
+
+ BUILDING COVARIANCE TABLE 
+ Covariance Look up table and search for previously
+ simulated grid nodes.  The maximum range in each
+ coordinate direction for covariance look up is:
+     X direction: 54
+     Y direction: 0
+     Z direction: 37
+ Node values are not searched beyond this distance! 
+
+ BEGIN SIMULATION
+ Working on realization number 1 
+Preparing simulation
+ WARNING: data values at 
+  31,1,1 - 31,1,1
+ are both assigned to same node - taking closest: 
+ WARNING: data values at 
+  31,1,6 - 31,1,6
+ are both assigned to same node - taking closest: 
+Simulating
+ .progress. 0% 
+-------------------------------------------------------------------------------
+ Simulation Elapsed time: 0 seconds              
+-------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
+ Elapsed time: 0 seconds               Press any key to continue...   
+-------------------------------------------------------------------------------
